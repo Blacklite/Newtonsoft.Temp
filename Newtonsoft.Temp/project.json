@@ -6,15 +6,21 @@
     "frameworks": {
         "aspnet50": {
             "frameworkAssemblies": {
-                "System.Runtime": "",
-                "System.Runtime.Serialization": "",
-                "System.Xml": "",
-                "System.Xml.Linq": "",
-                "System.Data": "",
-                "System.Numerics": ""
+                "System.Linq": "4.0.0.0",
+                "System.Linq.Expressions": "4.0.0.0",
+                "System.Reflection": "4.0.0.0",
+                "System.Reflection.Extensions": "4.0.0.0",
+                "System.Dynamic.Runtime": "4.0.0.0",
+                "System.Collections.Concurrent": "4.0.0.0",
+                "System.Collections": "4.0.0.0",
+                "System.Runtime": "4.0.10.0",
+                "System.Runtime.Serialization": "4.0.0.0",
+                "System.Xml": "4.0.0.0",
+                "System.Xml.Linq": "4.0.0.0",
+                "System.Data": "4.0.0.0",
+                "System.Numerics": "4.0.0.0"
             },
             "dependencies": {
-				"System.Runtime": "4.0.20.0"
             }
         }
     }
