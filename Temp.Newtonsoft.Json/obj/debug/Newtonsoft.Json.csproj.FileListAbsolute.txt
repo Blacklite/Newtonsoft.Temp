@@ -1,0 +1,8 @@
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.xml
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.pdb
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll.CodeAnalysisLog.xml
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\bin\Debug\Net45\Newtonsoft.Json.dll.lastcodeanalysissucceeded
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\obj\Debug\Newtonsoft.Json.csprojResolveAssemblyReference.cache
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\obj\Debug\Newtonsoft.Json.dll
+D:\Blacklite\Newtonsoft.Temp\Temp.Newtonsoft.Json\obj\Debug\Newtonsoft.Json.pdb

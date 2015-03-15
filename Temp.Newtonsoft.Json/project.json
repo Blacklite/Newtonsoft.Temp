@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+	"aspnet50": {
+		"frameworkAssemblies": {
+		"System.Runtime": "",
+		"System.Runtime.Serialization": "",
+		"System.Xml": "",
+		"System.Xml.Linq": "",
+		"System.Data": "",
+		"System.Numerics": ""
+		}
+	}
+  }
+}
